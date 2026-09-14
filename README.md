@@ -1,0 +1,1 @@
+# skin-scan-app
